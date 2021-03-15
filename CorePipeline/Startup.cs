@@ -15,6 +15,7 @@ namespace CorePipeline
     {
         public Startup(IConfiguration configuration)
         {
+            //change
             Configuration = configuration;
         }
 
